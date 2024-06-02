@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\AppData\\Local\\Temp\\.vsdbgsrc\\444ca3b1fb0dcf09a714b31ef192bbafaf0a22f489ce5f5f5c2ae4f614b4af2c\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -55,14 +59,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|c:\\users\\info\\desktop\\contactsphere\\contact_managment_app\\contact_managment_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{76FDA592-7625-48B8-BD20-83B2782F9055}|contact_managment_app\\contact_managment_app.csproj|solutionrelative:contact_managment_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,72 +76,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "contact_managment_app\\Views\\contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Edit.cshtml",
+              "RelativeToolTip": "contact_managment_app\\Views\\contacts\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T20:28:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Details.cshtml",
               "RelativeDocumentMoniker": "contact_managment_app\\Views\\contacts\\Details.cshtml",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Details.cshtml",
               "RelativeToolTip": "contact_managment_app\\Views\\contacts\\Details.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T16:53:58.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Create.cshtml",
               "RelativeDocumentMoniker": "contact_managment_app\\Views\\contacts\\Create.cshtml",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Create.cshtml",
               "RelativeToolTip": "contact_managment_app\\Views\\contacts\\Create.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAiwEEAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T16:21:35.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Index.cshtml",
               "RelativeDocumentMoniker": "contact_managment_app\\Views\\contacts\\Index.cshtml",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Index.cshtml",
               "RelativeToolTip": "contact_managment_app\\Views\\contacts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T16:01:29.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\services\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "contact_managment_app\\services\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\services\\ApplicationDbContext.cs",
               "RelativeToolTip": "contact_managment_app\\services\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAABBAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBwAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T15:58:53.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "contact_managment_app\\Controllers\\ContactsController.cs",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "contact_managment_app\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAI8AAAAJAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T15:57:03.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\info\\AppData\\Local\\Temp\\.vsdbgsrc\\444ca3b1fb0dcf09a714b31ef192bbafaf0a22f489ce5f5f5c2ae4f614b4af2c\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\444ca3b1fb0dcf09a714b31ef192bbafaf0a22f489ce5f5f5c2ae4f614b4af2c\\Program.cs",
@@ -158,43 +167,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Delete.cshtml",
               "RelativeDocumentMoniker": "contact_managment_app\\Views\\contacts\\Delete.cshtml",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\contacts\\Delete.cshtml",
               "RelativeToolTip": "contact_managment_app\\Views\\contacts\\Delete.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T16:20:57.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.Contacts [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Contacts_Management_DB/True/SqlTable/dbo.Contacts.sql",
-              "ToolTip": "dbo.Contacts [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-01T16:06:12.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "contact_managment_app\\Models\\Contact.cs",
               "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Models\\Contact.cs",
               "RelativeToolTip": "contact_managment_app\\Models\\Contact.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswCYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T15:53:38.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "dbo.Contacts [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Contacts_Management_DB/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T16:06:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Program.cs",
               "RelativeDocumentMoniker": "contact_managment_app\\Program.cs",
@@ -202,12 +210,11 @@
               "RelativeToolTip": "contact_managment_app\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T16:25:37.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:25:37.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\appsettings.json",
               "RelativeDocumentMoniker": "contact_managment_app\\appsettings.json",
@@ -215,23 +222,22 @@
               "RelativeToolTip": "contact_managment_app\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T16:30:44.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-01T16:08:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:30:44.35Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T16:08:16.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "contact_managment_app\\Views\\Home\\Index.cshtml",
@@ -239,12 +245,11 @@
               "RelativeToolTip": "contact_managment_app\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T15:52:15.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T15:52:15.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\info\\Desktop\\ContactSphere\\contact_managment_app\\contact_managment_app\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "contact_managment_app\\Properties\\launchSettings.json",
